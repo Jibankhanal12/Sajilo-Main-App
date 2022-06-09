@@ -3,14 +3,9 @@
 ### Title : Sajilo
 
 * Saurab Karki
-* Sisir Khanal
+* jiban Khanal
 * Kiran Aryal
 <br>
-For Service provider App: Please visit: https://github.com/saurab86/Sajilo-workerApp-
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurab86)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <img src="https://user-images.githubusercontent.com/68777795/139691790-b5259162-c349-4109-8a87-561e7b877090.jpg"
      alt=""
      style="float: left; margin-right: 10px; width:30vw; border:solid black 2px;"  />
